@@ -33,6 +33,7 @@ body {
 a.nav-item img {
     height: 25px;
     opacity: 0.5;
+    vertical-align: middle;
 }
 a.nav-item img:hover {
     opacity: 0.8;
@@ -50,7 +51,7 @@ input.nav-item {
     margin: 0px 10px;
 }
 #logo-div {
-    margin: 200px 25% 0px 25%;
+    margin: 250px 25% 0px 25%;
     text-align: center;
 }
 #logo {
@@ -65,8 +66,8 @@ input.nav-item {
 }
 #search-bar {
     display: inline-block;
-    width: 100%;
-    border-color: rgb(200, 200, 200);
+    width: 80%;
+    border-color: rgb(220, 220, 220);
     border-style: solid;
     border-radius: 100px;
     border-width: 1px;
@@ -98,7 +99,7 @@ input.nav-item {
     margin: 0 10px;
     width: 140px;
     height: 40px;
-    background: rgb(240, 240, 240);
+    background: rgb(248, 248, 248);
     border-radius: 5px;
     border-width: 0px;
     color:rgb(80, 80, 80);
